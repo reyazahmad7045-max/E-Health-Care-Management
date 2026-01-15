@@ -23,7 +23,7 @@ System.out.print("\t\t\t\t\t|                                                   
 System.out.print("\t\t\t\t\t|                                                                                           |\n");
 System.out.print("\t\t\t\t\t|                                                                                           |\n");
 System.out.print("\t\t\t\t\t|                                         -Brought To You by                                |\n");
-System.out.print("\t\t\t\t\t|                                      	 Md Fahad,Omer Mohiuddin and Yaseen Hussain         |\n");
+System.out.print("\t\t\t\t\t|                                      	 MR Reyaz, 									        |\n");
 System.out.print("\t\t\t\t\t|___________________________________________________________________________________________|\n");
 }
 //Declaring variales to be used
@@ -348,7 +348,7 @@ System.out.print("\t\t\t\t\t|                                                   
 System.out.print("\t\t\t\t\t|                                                                                       |\n");
 System.out.print("\t\t\t\t\t|                                                                                       |\n");
 System.out.print("\t\t\t\t\t|                                                                                       |\n");
-System.out.print("\t\t\t\t\t|                                              -Brought To You by Fahad,Omer and Yaseen |\n");
+System.out.print("\t\t\t\t\t|                                              -Brought To You by Reyaz,sajid and parwaj |\n");
 System.out.print("\t\t\t\t\t|_______________________________________________________________________________________|\n");
 System.out.print("\t\t\t\t\t\n\n\n\n\t\t\t\t\t");
 System.exit(0);
